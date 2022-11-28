@@ -1,3 +1,4 @@
+###################
 # Compiled source #
 ###################
 *.com
@@ -20,7 +21,7 @@
 *.tar
 *.zip
 
-
+######################
 # OS generated files #
 ######################
 .DS_Store
@@ -31,6 +32,7 @@
 ehthumbs.db
 Thumbs.db
 
+######################
 # Logs and databases #
 ######################
 logs
