@@ -7,5 +7,5 @@ server.get('/filmes', (req, res) => {
 });
 
 server.listen(3000, () => {
-    console.log("Servidor esta funcionado...");
+    console.log(" O Servidor está funcionado na porta 3000. ");
 });
